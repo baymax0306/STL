@@ -1,0 +1,9 @@
+﻿Build started 2016/5/16 20:58:07.
+     1>Project "D:\代码\VS2013\STLSample\STL\lambda\lambda.vcxproj" on node 5 (Build target(s)).
+     1>Link:
+         lambda.vcxproj -> D:\代码\VS2013\STLSample\STL\Debug\lambda.exe
+     1>Done Building Project "D:\代码\VS2013\STLSample\STL\lambda\lambda.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.10

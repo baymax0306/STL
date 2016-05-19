@@ -1,0 +1,9 @@
+﻿Build started 2016/5/16 20:58:07.
+     1>Project "D:\代码\VS2013\STLSample\STL\set\set.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         set.vcxproj -> D:\代码\VS2013\STLSample\STL\Debug\set.exe
+     1>Done Building Project "D:\代码\VS2013\STLSample\STL\set\set.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.34
